@@ -59,6 +59,16 @@ https://docs.google.com/document/d/1iBxMeL3pGeLnDO1wwIYcNl5fHiE7eYM_/edit?usp=sh
 Gambar Website :
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/3_Introduction%20UI-UX/Screenshoot/Gambar%20Website.png)
 
+Gambar Website 2 :
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/3_Introduction%20UI-UX/Screenshoot/Design%202/gambar%201.png)
+
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/3_Introduction%20UI-UX/Screenshoot/Design%202/Gambar%202.png)
+
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/3_Introduction%20UI-UX/Screenshoot/Design%202/Gambar%203.png)
+
+Gambar Website 3 :
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/3_Introduction%20UI-UX/Screenshoot/Design%203/desain%201.png)
+
 2. Tuliskan secara detail fitur dan letak dari UX yang kalian temukan. (minimal 3)
 a. Terdapat fitur search yang memudahkan pengguna dalam mencari sesuatu yang ada pada website
 b. Sangat mudah pada saat mengakses beberapa fitur karena langsung ditampilkan pada landing page
@@ -70,7 +80,7 @@ b. Konsistensi pada design seperti rectangle. Semua menggunakan design rectangle
 c. Interface yang simple sehingga memudahkan user dalam memahami isi website, serta penggunaan bahasa yang jelas pada setiap button.
 d. Good Typography, kumpulan huruf memiliki pola yang sama, pemilihan font yang senada, tata letak pada setiap text beraturan.
 
-4. Kode Warna :
+4. Kode Warna Website 1 :
 Gambar Kode Warna :
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/3_Introduction%20UI-UX/Screenshoot/COLOR%20PALLETE.png)
 
