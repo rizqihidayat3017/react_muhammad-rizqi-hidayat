@@ -43,7 +43,9 @@ Pada section 6 mempelajari :
 
 ## Task
 1. Gambar file 1 :
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/6_CSS/Screenshoot/page1.PNG)
 
 2. Gambar file 2 :
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/6_CSS/Screenshoot/page2.png)
 
 
