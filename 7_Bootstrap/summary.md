@@ -34,7 +34,7 @@ Bootstrap adalah framework HTML, CSS, dan JavaScript yang berfungsi untuk mendes
 
 ## Task
 1. Gambar file tugas :   
-![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/7_Bootstrap/Screenshoot/Bootsrap.png)  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/7_Bootstrap/Screenshoot/Bootstrapp.png)  
 
 
 
