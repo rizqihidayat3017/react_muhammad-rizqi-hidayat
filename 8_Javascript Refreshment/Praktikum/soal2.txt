@@ -1,0 +1,5 @@
+2. 
+a) Karena variable terdaftar pada line 4 bernilai false, sedangkan pada kondisi line 21,22,23 akan terpenuhi ketika variable terdaftar bernilai true.
+b) Karena variable nama pada line 3 bersifat const. Dimana const/konstanta itu bernilai tetap atau tidak dapat diubah. sedangkan pada line 26 terdapat variable nama yang akan diubah menjadi variable b.
+c) Tidak bisa, karena pada line 28 memanggil varable asal yang dimana variable asal tersebut merupakan variable local dan hanya bisa dipanggil didalam fungsi itu sendiri, saja.
+
