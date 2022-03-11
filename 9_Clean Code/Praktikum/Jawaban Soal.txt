@@ -1,0 +1,19 @@
+===Problem 1 - Analysis.===
+A. Bagian mana saja terjadi kekurangan tersebut?
+1. Pada line 10 pemanggilan fungsi "getallusers" tidak perlu ada tambahan users.
+2. Pada line 14 pemanggilan fungsi "getuserbyid" tidak perlu ada tambahan user.
+3. Terdapat penambahan konteks yang tidak perlu.
+4. Awal/paling depan pada nama class menggunakan huruf kecil.
+5. Seharusnya ada fungsi set.
+6. Pada line 7 seharusnya ada class extend untuk mengambil kelas lain.
+
+
+B. Tuliskan alasan dari tiap kekurangan tersebut!
+1. Pada line 10 penamaan fungsi "getallusers" tidak perlu ada tambahan users karena terdapat class user yang dimana sudah pasti memanggil yang ada di class user, jadi cukup menggunakan getall saja.
+2. Pada line 14 pemanggilan fungsi "getuserbyid" tidak perlu ada tambahan user karena terdapat class user yang dimana sudah pasti memanggil yang ada di class user, jadi cukup menggunakan getbyid saja.
+3. Salah satu karakteristik clean code adalah mengindari penambahan konteks yang tidak perlu
+4. Penamaan awal/paling depan pada class harus memakai huruf kapital.
+5. Karena jika ada fungsi get seharusnya juga ada fungsi set untuk mengatur nilai/value.
+
+===Problem 2 - Rewrite.===
+Ubahlah kode berikut menjadi lebih terbaca dan rapi!
