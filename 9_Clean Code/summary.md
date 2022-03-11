@@ -37,7 +37,8 @@ B. Tuliskan alasan dari tiap kekurangan tersebut!
 3. Salah satu karakteristik clean code adalah mengindari penambahan konteks yang tidak perlu  
 4. Penamaan awal/paling depan pada class harus memakai huruf kapital.  
 
-Problem 2 - Rewrite.
+Problem 2 - Rewrite.  
+![alt text]https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/9_Clean%20Code/Screenshoot/jawaban%20nomor%202.PNG)  
 
 
 
