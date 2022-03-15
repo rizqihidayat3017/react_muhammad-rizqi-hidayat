@@ -27,11 +27,11 @@ Ada istilah DOM manipulation is the heart of the modern, interactive web. Jadi M
 
 # Task
 Gambar Home :  
-![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10.%20Introduction%20React/Screenshoot/Home.png)  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10_Introduction%20React/Screenshoot/Home.png)  
 Gambar Contact :  
-![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10.%20Introduction%20React/Screenshoot/Contact.png)  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10_Introduction%20React/Screenshoot/Contact.png)  
 Gambar About :  
-![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10.%20Introduction%20React/Screenshoot/About.png)  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10_Introduction%20React/Screenshoot/About.png)  
 
 
 
