@@ -26,6 +26,15 @@ Library javascript untuk membuat user interface (UI) yang interaktif dan cepat p
 Ada istilah DOM manipulation is the heart of the modern, interactive web. Jadi Manipulasi dom adalah kunci dari web yang modern dan interaktif. Karena untuk membuat website interaktif, kita perlu mengubah DOM. Dengan cara menggunakan DOM manipulation.  
 
 # Task
+Gambar Home :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10.%20Introduction%20React/Screenshoot/Home.png)  
+Gambar Contact :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10.%20Introduction%20React/Screenshoot/Contact.png)  
+Gambar About :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/10.%20Introduction%20React/Screenshoot/About.png)  
+
+
+
 
 
 
