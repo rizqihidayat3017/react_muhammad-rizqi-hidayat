@@ -14,35 +14,35 @@ function About() {
     return (
         <div>
             <header>
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-8 col-md-12 col-sm-12 col-12">
-                        <div class="alterra">
-                            <a href="index.html"><img class="logo-atas" src={logoAlta} /></a>
+            <div className="container">
+                <div className="row align-items-center">
+                    <div className="col-lg-8 col-md-12 col-sm-12 col-12">
+                        <div className="alterra">
+                            <a href="index.html"><img className="logo-atas" src={logoAlta} /></a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-12 col-sm-12 col-12">
-                        {/* <div class="container">  */}
-                        <div class="row align-items-center navig">
-                            <div class="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-right"><a href="index.html">HOME</a></div>
-                            <div class="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-center"><a href="about.html" class="aktif">ABOUT</a></div>
-                            <div class="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-left"><a href="#">EXPERIENCE</a></div>
-                            <div class="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-right"><a href="form.html">CONTACT</a></div>
+                    <div className="col-lg-4 col-md-12 col-sm-12 col-12">
+                        {/* <div className="container">  */}
+                        <div className="row align-items-center navig">
+                            <div className="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-right"><a href="index.html">HOME</a></div>
+                            <div className="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-center"><a href="about.html" className="aktif">ABOUT</a></div>
+                            <div className="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-left"><a href="#">EXPERIENCE</a></div>
+                            <div className="col-lg-3 col-md-3 col-sm-3 text-md-center text-sm-center text-lg-right"><a href="form.html">CONTACT</a></div>
                         </div>
                         {/* </div> */}
                     </div>
                 </div>
             </div>
             </header>
-            <div class="container-fluid about-me">
-                <h1 class="container pl-2 pt-5 pb-5">
+            <div className="container-fluid about-me">
+                <h1 className="container pl-2 pt-5 pb-5">
                     ABOUT ME.
                 </h1>
             </div>
-            <div class="container">
-                <div class="row pt-5 pb-5 ">
-                    <div class="col-lg-7 col-md-12 col-sm-12 col-12 pl-5">
-                        <div class="about-anne">
+            <div className="container">
+                <div className="row pt-5 pb-5 ">
+                    <div className="col-lg-7 col-md-12 col-sm-12 col-12 pl-5">
+                        <div className="about-anne">
                             <p>Hello! I’m Anne Sullivan, a full-stack engineer based in Malang, IDN who enjoys building things
                                 that live on the internet. I develop exceptional websites and web apps that provide intuitive,
                                 pixel-perfect user interfaces with efficient and modern backends. <br /><br />
@@ -52,7 +52,7 @@ function About() {
                             </p>
                         </div>
                         <div>
-                            <table class="tabel-anne">
+                            <table className="tabel-anne">
                                 <tr>
                                     <td>HTML & CSS</td>
                                     <td>Serverless</td>
@@ -76,37 +76,37 @@ function About() {
                             </table>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-12 col-sm-12 col-12 pr-5">
-                        <div class="foto-id text-lg-right text-md-center text-sm-center">
+                    <div className="col-lg-5 col-md-12 col-sm-12 col-12 pr-5">
+                        <div className="foto-id text-lg-right text-md-center text-sm-center">
                             <img src={logoUser} />
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="container-fluid footer">
-                <div class="row pt-5 pb-5">
-                    <div class="pl-5 col-lg-5 col-md-4 col-sm-12 col-12 text-lg-left text-md-left text-sm-center">
-                        <a href="index.html"><img class="logo-bawah" src={logoBawah}/></a>
+            <div className="container-fluid footer">
+                <div className="row pt-5 pb-5">
+                    <div className="pl-5 col-lg-5 col-md-4 col-sm-12 col-12 text-lg-left text-md-left text-sm-center">
+                        <a href="index.html"><img className="logo-bawah" src={logoBawah}/></a>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-12 text-lr-left text-md-center text-sm-center">
+                    <div className="col-lg-3 col-md-3 col-sm-12 col-12 text-lr-left text-md-center text-sm-center">
                         <h6>Social Media:</h6>
-                        {/* <!-- <div class="col-3 text-center"> --> */}
-                        <a href="https://www.facebook.com/AlterraAcademy"><img class="logo-sosmed"
+                        {/* <!-- <div className="col-3 text-center"> --> */}
+                        <a href="https://www.facebook.com/AlterraAcademy"><img className="logo-sosmed"
                             src={sosialMedia}/></a>
                         {/* <!-- </div> --> */}
-                        {/* <!-- <div class="col-3 text-center"> --> */}
-                        <a href="https://twitter.com/"><img class="logo-sosmed" src={twiter}/></a>
+                        {/* <!-- <div className="col-3 text-center"> --> */}
+                        <a href="https://twitter.com/"><img className="logo-sosmed" src={twiter}/></a>
                         {/* <!-- </div> --> */}
-                        {/* <!-- <div class="col-3 text-center"> --> */}
-                        <a href="https://www.instagram.com/alterra.academy/"><img class="logo-sosmed"
+                        {/* <!-- <div className="col-3 text-center"> --> */}
+                        <a href="https://www.instagram.com/alterra.academy/"><img className="logo-sosmed"
                             src={instagram}/></a>
                         {/* <!-- </div> --> */}
-                        {/* <!-- <div class="col-3 text-center"> --> */}
-                        <a href="https://id.linkedin.com/"><img class="logo-sosmed" src={linkedin}/></a>
+                        {/* <!-- <div className="col-3 text-center"> --> */}
+                        <a href="https://id.linkedin.com/"><img className="logo-sosmed" src={linkedin}/></a>
                         {/* <!-- </div> --> */}
                     </div>
-                    <div class="col-lg-4 col-md-5 col-sm-12 col-12 pt-3">
-                        <h6 class="text-lg-right text-md-center text-sm-center kopi">Copyleft © 2019 - Unjelas Team</h6>
+                    <div className="col-lg-4 col-md-5 col-sm-12 col-12 pt-3">
+                        <h6 className="text-lg-right text-md-center text-sm-center kopi">Copyleft © 2019 - Unjelas Team</h6>
                     </div>
                 </div>
             </div>

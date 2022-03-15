@@ -9,7 +9,7 @@ import About from './about';
 
 ReactDOM.render(
   <React.StrictMode>
-    <About />
+    <Home />
   </React.StrictMode>,
   document.getElementById('root')
 );
