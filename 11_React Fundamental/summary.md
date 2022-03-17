@@ -12,7 +12,7 @@ Pada section 11 mempelajari :
 
 # Task
 Output :  
-![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/tree/master/11_React%20Fundamental/Screenshooot)  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/11_React%20Fundamental/Screenshooot/Section11.PNG)  
 
 
 
