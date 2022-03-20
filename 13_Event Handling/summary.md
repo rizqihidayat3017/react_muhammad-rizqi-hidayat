@@ -10,7 +10,7 @@ Pada section 13 mempelajari :
 4. Mengerjakan tugas react event handling.  
 
 # Task
-Rampilan :  
+Tampilan :  
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/13_Event%20Handling/Screenshoot/Tampilan.png)
 
 
