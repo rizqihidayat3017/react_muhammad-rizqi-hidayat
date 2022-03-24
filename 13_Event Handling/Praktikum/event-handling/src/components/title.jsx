@@ -84,15 +84,16 @@ const Title = ({
     let valueCheck = false
 
     function setCheck(id) {
-        valueCheck = !valueCheck;
-        console.log(valueCheck, id);
+        // valueCheck = !valueCheck;
+        let getValCheck = document.getElementById('goCheck-' + id);
+        console.log(getValCheck, id);
         let garis = document.getElementById("garis-" + id);
-        if (valueCheck) {
+        if (getValCheck.checked == true) {
             console.log("true", garis);
-            garis.style.textDecoration = 'line-through';
+            garis.style.textDecoration = "line-through";
         } else {
             console.log("false", garis);
-            garis.style.textDecoration = '';
+            garis.style.textDecoration = "";
         }
     }
 
@@ -106,7 +107,7 @@ const Title = ({
             <ul style={CustomUl}>
                 {items.map((item) =>
                     <div style={CustomContainerListItem}>
-                        <input type="checkbox" defaultChecked={valueCheck} onChange={() => setCheck(item.id)} id="goCheck" />
+                        <input type="checkbox" defaultChecked={valueCheck} onChange={() => setCheck(item.id)} id={'goCheck-'+ item.id} />
                         <li key={item.id} style={CustomList}>
                             <p id={"garis-" + item.id}>{item.title}</p>
                         </li>
