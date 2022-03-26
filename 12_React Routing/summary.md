@@ -11,4 +11,15 @@ Pada section 12 mempelajari :
 
 # Task
 Tampilan :  
-![alt text]()
+Home :   
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/12_React%20Routing/Screenshoot/Home.png)  
+
+About App :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/12_React%20Routing/Screenshoot/About%20App.png)  
+
+About Author :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/12_React%20Routing/Screenshoot/About%20Author.png)  
+
+Page404 :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/12_React%20Routing/Screenshoot/404.png)  
+
