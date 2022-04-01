@@ -12,5 +12,15 @@ Pada section 15 mempelajari :
 6. Mengerjakan tugas react form.  
 
 # Task
-Tampilan :  
-![alt text]()
+Tampilan 1 :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/15_React%20Form/screenshoot/Gambar%201.png)   
+
+Tampilan 2 :   
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/15_React%20Form/screenshoot/Gambar%202.png)  
+
+Tampilan 3 :    
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/15_React%20Form/screenshoot/Gambar%203.PNG)  
+
+Tampilan 4 :  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/15_React%20Form/screenshoot/Gambar%204.PNG)  
+
