@@ -1,11 +1,10 @@
-import './App.css';
-import Form from './components/Form';
+import FormDaftar from "./components/FormDaftar";
 
 function App() {
   return (
-    <div>
-     <Form/>
-    </div>
+    <>
+      <FormDaftar/>
+    </>
   );
 }
 
