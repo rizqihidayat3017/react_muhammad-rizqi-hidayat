@@ -1,5 +1,5 @@
-.customCheck:checked+.customList {
-    color: rgb(124, 122, 122);
-    text-decoration: line-through !important;
-    font-style: italic;
+.customCheck:checked + .customList {
+  color: rgb(124, 122, 122);
+  text-decoration: line-through !important;
+  font-style: italic;
 }

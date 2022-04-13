@@ -1,10 +1,6 @@
 import "./App.css";
 import Home from "./components/Home";
-import {
-  BrowserRouter,
-  Routes,
-  Route,
-} from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AboutApp } from "./components/Aboutapp/AboutApp";
 import { AboutAuthor } from "./components/AboutAuthor/AboutAuthor";
 import { Pagenotfound } from "./components/pagenotfound/Pagenotfound";
