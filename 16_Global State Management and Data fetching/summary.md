@@ -12,6 +12,6 @@ Pada section 16 mempelajari :
 
 # Task
 Tampilan 1 :  
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/16_Global%20State%20Management%20and%20Data%20fetching/screenshoot/gambar1.png)  
  
 
