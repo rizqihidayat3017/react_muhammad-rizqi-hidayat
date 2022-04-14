@@ -11,6 +11,6 @@ Pada section 18 mempelajari :
 # Task
 Link Deployment :  (https://taskdeploy-muhammadrizqihidayat.netlify.app/)  
 Tampilan Tugas :  
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/18_Deployment/screenshoot/deployment.PNG)  
  
 
