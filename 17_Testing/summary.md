@@ -11,6 +11,6 @@ Pada section 17 mempelajari :
 
 # Task
 Tampilan Tugas :  
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/17_Testing/screenshoot/tugasTesting.PNG)  
  
 
