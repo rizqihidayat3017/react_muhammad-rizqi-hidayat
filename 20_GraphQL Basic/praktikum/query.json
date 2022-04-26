@@ -1,0 +1,47 @@
+{
+    "Query1": "query Query1 {
+        anggota {
+          id
+          name
+          keterangans(where: {Status: {_eq: true
+            }
+        }) {
+            id
+            Status
+        }
+    }
+}",
+    "Insert1": "mutation Insert1 {
+        insert_keterangan_one(object: {
+          id_anggota: 3, 
+          Pelajaran: "Sistem Informasi", 
+          Nilai: 90, 
+          Status: true, 
+          id: 5
+}) {
+          id
+}
+}",
+    "Insert2": "mutation Insert2 {
+        insert_keterangan_one(object: {
+          id_anggota: 3, 
+          Pelajaran: "React", 
+          Nilai: 55, 
+          Status: false, 
+          id: 6
+}) {
+          id
+}
+}",
+    "Update": "mutation Update{
+        update_keterangan(where: {Status: {_lte: false
+}
+}, 
+          _set: {Status: true
+}){
+          returning{
+            id
+}
+}
+}",
+}
