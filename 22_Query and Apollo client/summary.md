@@ -12,10 +12,10 @@ Pada section 22 mempelajari :
 # Task
 
 tampilan 1 :    
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Tampilan.PNG)  
 
 Tampilan 2 :  
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Seacrh.PNG)  
 
 Tampilan 3 :  
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Delete.PNG)  
