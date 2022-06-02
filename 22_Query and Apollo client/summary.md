@@ -14,8 +14,11 @@ Pada section 22 mempelajari :
 tampilan 1 :    
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Tampilan.PNG)  
 
-Tampilan 2 :  
+Search :  
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Seacrh.PNG)  
 
-Tampilan 3 :  
+Delete :  
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Delete.PNG)  
+
+Database Hasura :  
+![alt text]()  
