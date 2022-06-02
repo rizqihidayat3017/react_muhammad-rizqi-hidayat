@@ -21,4 +21,10 @@ Delete :
 ![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Delete.PNG)  
 
 Database Hasura :  
-![alt text]()  
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/Databasee.PNG)  
+
+![alt text](https://github.com/rizqihidayat3017/react_muhammad-rizqi-hidayat/blob/master/22_Query%20and%20Apollo%20client/screenshoot/database.PNG)  
+
+
+
+
